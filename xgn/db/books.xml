@@ -1,0 +1,26 @@
+<Books>
+    <Book>
+        <Title>新概念第一册</Title>
+        <Difficulty>英语初阶</Difficulty>
+        <CoursesNum>72</CoursesNum>
+        <Cover>imgs/book1.png</Cover>
+    </Book>
+    <Book>
+        <Title>新概念第二册</Title>
+        <Difficulty>英语初阶</Difficulty>
+        <CoursesNum>72</CoursesNum>
+        <Cover>imgs/book2.png</Cover>
+    </Book>
+    <Book>
+        <Title>新概念第三册</Title>
+        <Difficulty>英语初阶</Difficulty>
+        <CoursesNum>72</CoursesNum>
+        <Cover>imgs/book3.png</Cover>
+    </Book>
+    <Book>
+        <Title>新概念第四册</Title>
+        <Difficulty>英语初阶</Difficulty>
+        <CoursesNum>72</CoursesNum>
+        <Cover>imgs/book4.png</Cover>
+    </Book>
+</Books>
